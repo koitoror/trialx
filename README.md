@@ -1,9 +1,13 @@
 A one-liner phrase describing this project or app
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/eb9ae9dbd15a489c8e1134b52a4fea67)](https://www.codacy.com/gh/BuildForSDG/javascript-starter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BuildForSDG/javascript-starter&amp;utm_campaign=Badge_Grade)
 >>>>>>> update documentation and project properties file
+=======
+[![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
+>>>>>>> Update README.md
 
 # Team-183-Backend
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6c9d7de398b64a68bf8446209a78f342)](https://app.codacy.com/gh/BuildForSDG/Team-183-Backend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-183-Backend&utm_campaign=Badge_Grade_Settings)
